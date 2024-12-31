@@ -1,9 +1,15 @@
 .container{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    
     align-items: center;
     height: 100vh;
     margin: -10px;
     background-color: black;
+}
+
+h2{
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
